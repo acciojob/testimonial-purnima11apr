@@ -18,11 +18,13 @@ h1{
 	margin:5px;
 	background-color:white;
 	font-size: small;
+	font-family: "Times New Roman", Times, serif;
 }
 
 p{
 	text-align:right;
 	Font-style: italic;
+	font-family: "Times New Roman", Times, serif;
 }
 
 

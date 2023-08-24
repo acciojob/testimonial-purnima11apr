@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.container{
+	Background-color: #f5f5f5;
+	padding:15px
+}
+h2{
+	padding:15px;
+	font-family: "Times New Roman", Times, serif;
+}
+.testimonials{
+	border: 1px solid lightgray;
+	padding:10px;
+	margin:5px;
+	background-color:white;
+	font-size: small;
+}
+
+.name{
+	text-align:right;
+	Font-style: italic;
+}
+
+
